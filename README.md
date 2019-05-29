@@ -1,3 +1,4 @@
+![Image text](https://static.dev.hbec.com/hbec/projects/activity/2019/cea/1.0.0/images/GIF.gif)
 ## 可转债收益计算器
 
 ### 为了方便可转债交易用户实时计算出目标价格
@@ -31,5 +32,3 @@
 ##### 业务有关配置
 
 ##### 搜索和选取结果2个接口
-
-
