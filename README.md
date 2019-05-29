@@ -1,4 +1,4 @@
-![Image text](https://github.com/linyang520/caculate/blob/master/src/assets/img/arrow_right.png)
+![Image text](https://github.com/linyang520/caculate/blob/master/src/assets/img/GIF.gif)
 ## 可转债收益计算器
 
 ### 为了方便可转债交易用户实时计算出目标价格
