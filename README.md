@@ -1,7 +1,9 @@
-## 发现页项目
+## 可转债收益计算器
+
+### 为了方便可转债交易用户实时计算出目标价格
 
 ### 使用的技术栈：
-    vue vue-router vuex axios sass
+    vue vue-router axios sass
     mockjs模拟数据接口
     
 ### 如果遇到chromedriver node install.js 安装错误，解决办法：
@@ -17,7 +19,7 @@
 ### 变量和方法采用小驼峰命名规则
 
 ### api目录文件
-    /findPage/src/api
+    /src/api
 
 ### util文件中封装了些常用的方法
     包括bridge 判断是否为app 原生跳转方法
@@ -25,17 +27,9 @@
 ### config文件中主要是项目常用的配置
     包括 跟随环境变化的url前缀， 不同环境的项目配置
 
-### store 目录 根文件及不同页面的store文件，进行分开管理
 
 ##### 业务有关配置
 
-视频解说
-dev 172 仿真 147 生产 185
-
-特别提醒
-dev 206 仿真 133 生产194
-
-引导宣传模块
-dev 251 生产 228
+##### 搜索和选取结果2个接口
 
 
