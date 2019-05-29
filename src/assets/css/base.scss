@@ -1,0 +1,31 @@
+@charset "utf-8";
+$ppr: 750/20/1rem !default;
+$baseFontColor: #2F2F2F !default;
+$redColor: #CE3533 !default;
+$baseBackgroundColor: #f6f6f6 !default;
+$redColor: #CE3533 !default;
+$newRedColor: #F63E3E !default;
+$whiteColor: #fff !default;
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+  font-size: 0;
+}
+
+.ellipsis_2_clamp {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  /* autoprefixer: ignore next */
+  -webkit-box-orient: vertical;
+}
+input::-webkit-input-placeholder{ color: #999;}
+input:-ms-input-placeholder{ color: #999;}
+input:-moz-placeholder{ color: #999;}

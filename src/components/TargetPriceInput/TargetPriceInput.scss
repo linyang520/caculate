@@ -1,0 +1,29 @@
+@charset "utf-8";
+@import "../../assets/css/index";
+.target-input {
+  margin-bottom: 20/2/$ppr;
+  height: 140/2/$ppr;
+  background: #e4e3e2 url('../../assets/img/screen_bg.png') no-repeat center bottom;
+  background-size: auto 70/$ppr;
+  //display: flex;
+  &.fixed{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding-top: 20/2/$ppr;
+  }
+}
+.target-price, .target-text{
+  //flex: 1;
+  color: #2f2f2f;
+  padding-right: 46/2/$ppr;
+  text-align: right;
+  box-sizing: border-box;
+}
+.target-price{
+  font-size: 30/$ppr;
+  line-height: 1.2;
+  font-weight: bold;
+  padding-top: 15/2/$ppr;
+}

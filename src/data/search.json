@@ -1,0 +1,111 @@
+{
+  "success": true,
+  "records": {
+    "list": [
+      {
+        "securityId": "132005.SH",
+        "securityCode": "132005",
+        "securityAbbrName": "15国资EB",
+        "pinyinSecurityAbbr": "15gzEB",
+        "securityMarket": "SH",
+        "marketType": "债券",
+        "securityType": "可转债",
+        "securityState": "已上市"
+      },
+      {
+        "securityId": "132015.SH",
+        "securityCode": "132015",
+        "securityAbbrName": "18中油EB",
+        "pinyinSecurityAbbr": "18zyEB",
+        "securityMarket": "SH",
+        "marketType": "债券",
+        "securityType": "可转债",
+        "securityState": "已上市"
+      },
+      {
+        "securityId": "132004.SH",
+        "securityCode": "132004",
+        "securityAbbrName": "15国盛EB",
+        "pinyinSecurityAbbr": "15gsEB",
+        "securityMarket": "SH",
+        "marketType": "债券",
+        "securityType": "可转债",
+        "securityState": "已上市"
+      },
+      {
+        "securityId": "132009.SH",
+        "securityCode": "132009",
+        "securityAbbrName": "17中油EB",
+        "pinyinSecurityAbbr": "17zyEB",
+        "securityMarket": "SH",
+        "marketType": "债券",
+        "securityType": "可转债",
+        "securityState": "已上市"
+      },
+      {
+        "securityId": "132008.SH",
+        "securityCode": "132008",
+        "securityAbbrName": "17山高EB",
+        "pinyinSecurityAbbr": "17sgEB",
+        "securityMarket": "SH",
+        "marketType": "债券",
+        "securityType": "可转债",
+        "securityState": "已上市"
+      },
+      {
+        "securityId": "110041.SH",
+        "securityCode": "110041",
+        "securityAbbrName": "蒙电转债",
+        "pinyinSecurityAbbr": "mdzz",
+        "securityMarket": "SH",
+        "marketType": "债券",
+        "securityType": "可转债",
+        "securityState": "已上市"
+      },
+      {
+        "securityId": "113017.SH",
+        "securityCode": "113017",
+        "securityAbbrName": "吉视转债",
+        "pinyinSecurityAbbr": "jszz",
+        "securityMarket": "SH",
+        "marketType": "债券",
+        "securityType": "可转债",
+        "securityState": "已上市"
+      },
+      {
+        "securityId": "113012.SH",
+        "securityCode": "113012",
+        "securityAbbrName": "骆驼转债",
+        "pinyinSecurityAbbr": "ltzz",
+        "securityMarket": "SH",
+        "marketType": "债券",
+        "securityType": "可转债",
+        "securityState": "已上市"
+      },
+      {
+        "securityId": "113512.SH",
+        "securityCode": "113512",
+        "securityAbbrName": "景旺转债",
+        "pinyinSecurityAbbr": "jwzz",
+        "securityMarket": "SH",
+        "marketType": "债券",
+        "securityType": "可转债",
+        "securityState": "已上市"
+      },
+      {
+        "securityId": "113517.SH",
+        "securityCode": "113517",
+        "securityAbbrName": "曙光转债",
+        "pinyinSecurityAbbr": "sgzz",
+        "securityMarket": "SH",
+        "marketType": "债券",
+        "securityType": "可转债",
+        "securityState": "已上市"
+      }
+    ],
+    "count": 171,
+    "from": 0,
+    "size": 10,
+    "totalPages": 0
+  }
+}

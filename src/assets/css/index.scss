@@ -1,0 +1,18 @@
+@charset "utf-8";
+@import './base';
+body {
+  background-color: #E4E3E2;
+  font-size: 12/$ppr;
+}
+.caculate{
+  padding: 20/2/$ppr 20/2/$ppr 0;
+  &.caculateTopFixed{
+    padding-top: 90/$ppr;
+  }
+}
+.red{
+  color: #D43E47 !important;
+}
+.blue{
+  color: #1AAE52 !important;
+}
