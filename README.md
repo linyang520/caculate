@@ -1,4 +1,4 @@
-![Image text](https://static.touker.com/hbec/projects/activity/2019/cea/1.0.0/images/GIF.gif)
+![Image text](https://github.com/linyang520/caculate/blob/master/src/assets/img/arrow_right.png)
 ## 可转债收益计算器
 
 ### 为了方便可转债交易用户实时计算出目标价格
